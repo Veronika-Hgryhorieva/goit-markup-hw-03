@@ -58,7 +58,7 @@ body {
         color: #fff;
 }
 
-.titel-2 {}
+/* .titel-2 {} */
 
 .titel-3 {
         font-weight: 500;
@@ -157,7 +157,7 @@ body {
         padding-bottom: 188px;
 }
 
-.main-section {
+.section-main-container {
         max-width: 496px;
         margin: 0 auto;
         text-align: center;
@@ -229,7 +229,7 @@ body {
         padding-bottom: 120px;
 }
 
-.custom-heading {
+.section-custom-header{
         font-size: 36px;
         line-height: 1.11;
         text-align: center;

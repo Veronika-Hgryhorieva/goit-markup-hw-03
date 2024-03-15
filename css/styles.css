@@ -49,24 +49,10 @@ body {
         letter-spacing: 0.02em;
 }
 
-.titel-1 {
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #fff;
-}
+
 
 /* .titel-2 {} */
 
-.titel-3 {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
 
 .container {
         max-width: 1158px;
@@ -162,6 +148,12 @@ body {
         margin: 0 auto;
         text-align: center;
         margin-bottom: 48px;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
 }
 
 .section-button {
@@ -217,6 +209,11 @@ body {
 
 .section-title-first {
         margin-bottom: 8px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 
 .list-section-item {
@@ -237,7 +234,8 @@ body {
         text-transform: capitalize;
         color: #2e2f42;
         margin: 0 auto;
-        margin-bottom: 72px;
+        border-radius: 0px 0px 4px 4px;
+        margin-bottom: 8px;
 }
 
 .custom-list {
@@ -252,7 +250,6 @@ body {
 }
 
 .custom-sub-paragh {
-        padding: 16px 32px;
         padding-top: 32px;
         padding-bottom: 32px;
 }
@@ -317,6 +314,7 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        margin-bottom: 72px;
 }
 
 .custom-subhead {
